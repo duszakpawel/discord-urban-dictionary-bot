@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F4E72EDB-8BE0-43C0-84CB-FD1BC0B67499}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordUrbanDictionaryBot.Tests", "DiscordUrbanDictionaryBot.Tests\DiscordUrbanDictionaryBot.Tests.csproj", "{12D06C58-B3C1-42EA-92EB-834802116A39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordUrbanDictionaryBot.Service", "DiscordUrbanDictionaryBot.Service\DiscordUrbanDictionaryBot.Service.csproj", "{F9BAFDDC-5B7C-4092-BA59-65693C49FF06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D06C58-B3C1-42EA-92EB-834802116A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D06C58-B3C1-42EA-92EB-834802116A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D06C58-B3C1-42EA-92EB-834802116A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D06C58-B3C1-42EA-92EB-834802116A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BAFDDC-5B7C-4092-BA59-65693C49FF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BAFDDC-5B7C-4092-BA59-65693C49FF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BAFDDC-5B7C-4092-BA59-65693C49FF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BAFDDC-5B7C-4092-BA59-65693C49FF06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6EE5D08-757D-4A56-B1C8-65BABD7D1BC0}
+	EndGlobalSection
+EndGlobal
