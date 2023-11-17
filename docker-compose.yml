@@ -1,0 +1,11 @@
+version: '1.0'
+
+services:
+  bot:
+    build: ./DiscordUrbanDictionaryBot.Service
+    image: ${BASE_IMAGE_NAME}:${VERSION}
+    container_name: DiscordUrbanDictionaryBot
+    restart: unless-stopped
+    environment:
+      - Secrets__DiscordToken=${DISCORD_TOKEN}
+      - Secrets__UrbanDictEndpoint=${URBAN_DICT_ENDPOINT}
