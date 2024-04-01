@@ -27,8 +27,11 @@ If setup was successful you should now have a container named `DiscordUrbanDicti
 
 # Demo
 ![ss1](https://github.com/duszakpawel/discord-urban-dictionary-bot/assets/17085237/758c0a6e-6f0e-4fc2-8ce7-46032345b62a)
+
 ![ss2](https://github.com/duszakpawel/discord-urban-dictionary-bot/assets/17085237/83a3b44d-e65b-4fba-8e75-8979dc79a488)
+
 ![ss3](https://github.com/duszakpawel/discord-urban-dictionary-bot/assets/17085237/45668032-16f4-4ffd-b666-0a5ee27f72fc)
+
 ![ss4](https://github.com/duszakpawel/discord-urban-dictionary-bot/assets/17085237/80ad0f9e-5243-4812-9a65-224b69cd0e16)
 
 
